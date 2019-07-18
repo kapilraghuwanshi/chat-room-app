@@ -1,0 +1,16 @@
+{
+  "name": "socketexpressserver",
+  "version": "1.0.0",
+  "description": "Express Chat Room App based on socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Kapil Raghuwanshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  }
+}
