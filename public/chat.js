@@ -1,7 +1,6 @@
 // Make Connection
 var socketClient = io.connect('http://localhost:5050');
 
-
 // Query DOM
 var message = document.getElementById('message'),
     handle = document.getElementById('handle'),
