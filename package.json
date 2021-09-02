@@ -4,7 +4,7 @@
   "description": "Express Chat Room App based on socket.io",
   "main": "app.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node app.js"
   },
   "author": "Kapil Raghuwanshi",
   "license": "ISC",

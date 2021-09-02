@@ -6,6 +6,12 @@ A blazing fast Node-Express Chat Room App based on socket.io client and server l
 ### Broadcast
 ### See live ..typing status
 
+
+### Start the project
+`cd chat-room-app`
+`npm install`
+`npm run start`
+
 ### Live Snapshots
 2 users started the chat
 
